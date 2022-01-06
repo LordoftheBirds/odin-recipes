@@ -1,0 +1,32 @@
+/* style.css */
+
+h2, h3 {
+    text-align: center;
+    color: maroon;
+}
+
+.ingredients {
+    text-align: left;
+    color: magenta;
+}
+
+h1 {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 72px;
+    color:coral;
+    background-color: lightseagreen;
+}
+
+.landing {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    color: paleturquoise;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 24px;
+}
